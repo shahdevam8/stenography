@@ -70,13 +70,5 @@ stenography/
 
 ---
 
-## 💡 To Improve
-- Add SHA-256 hashing for password security
-- Encrypt messages using AES
-- Add drag-and-drop support in GUI
-- Implement message length validation in GUI
-
----
-
 ## 👨‍💻 Author
-Made by [Devam Shah]
+Made by Devam Shah
