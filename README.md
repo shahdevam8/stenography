@@ -58,14 +58,12 @@ stenography/
 ├── encryption.py        # Encrypt message with password into image
 ├── decryption.py        # Decrypt message with password from image
 ├── gui.py               # GUI tool for encryption/decryption
-├── encryptedImage.png   # Output file (created after encryption)
-├── mypic.png            # Example input image (use your own PNG)
+├── NexTux.png            # Example input image (use your own PNG)
 ```
 
 ---
 
 ## ⚠ Notes
-
 - Use **PNG or BMP** images only (JPG may corrupt data).
 - Message length is limited by image size.
 - Password is required for decryption. Wrong password = no access.
@@ -73,7 +71,6 @@ stenography/
 ---
 
 ## 💡 To Improve
-
 - Add SHA-256 hashing for password security
 - Encrypt messages using AES
 - Add drag-and-drop support in GUI
@@ -82,5 +79,4 @@ stenography/
 ---
 
 ## 👨‍💻 Author
-
-Made by [Devam Shah](https://github.com/shahdevam8)
+Made by [Devam Shah]
